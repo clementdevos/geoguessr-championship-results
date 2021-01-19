@@ -1,0 +1,1 @@
+# geoguessr-championship-results
